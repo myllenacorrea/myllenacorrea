@@ -2,12 +2,13 @@
 <h3 align="center">Uma estudante de Ciências da Computação!</h3>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=myllenacorrea&label=Profile%20views&color=0e75b6&style=flat" alt="[myllenacorrea]" />
+  <img src="https://komarev.com/ghpvc/?username=myllenacorrea&label=Profile%20views&color=0e75b6&style=flat" alt="myllenacorrea" />
 </p>
 
 <p align="center">
   <a href="https://github.com/myllenacorrea?tab=repositories" target="_blank">
-    <img alt="GitHub Repositories" src="https://img.shields.io/github/stars/myllenacorrea?style=social&label=Repositórios&logo=github">
+    <img alt="GitHub Repositories" 
+     src="https://img.shields.io/badge/Repositórios-181717?style=for-the-badge&logo=github&logoColor=white">
   </a>
   <a href="https://www.linkedin.com/in/SEU_USUARIO_LINKEDIN" target="_blank">
     <img alt="LinkedIn" src="https://img.shields.io/badge/-LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white">
